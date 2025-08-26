@@ -39,7 +39,7 @@ Explore the interactive dashboard using filters, slicers, and visuals.
 📊 Dashboard Preview
 
 
-
+![](https://github.com/Indro1729/Analysis-with-Power-BI/blob/main/SuperStore%20Dashboard.png)
 
 
 
